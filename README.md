@@ -1,6 +1,6 @@
 ## Olá , me chamo Arthur e esse é o meu mundo no GitHub 
 
-- No momento estou em busca da minha primeira oportunidade de emprego, para poder demonstrar o que venho aprendendo e me dedicado.
+- No momento estou em busca da minha primeira oportunidade de emprego na minha área de estudos, para poder demonstrar o que venho aprendendo e me dedicado.
 - Sinta-se a vontade para entrar em contato comigo através das redes sociais informadas abaixo para propostas e/ou dúvidas em algum projeto meu, fico a disposição de ajudar no que for possível.
 
 <div style="display: inline_block"><br>
