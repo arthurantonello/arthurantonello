@@ -1,6 +1,6 @@
 <h1 align="left"> Me chame de Arthur!</h1>
 <h2 align="left"> • Por aqui tu vai encontrar algumas das coisas que me atiçaram a curiosidade e resolvi desenvolver </h2><br>
-<h2> • Acesse meu <a href="https://arthurantonello.github.io/)" target="_blank">Portfólio</a></h2><br>
+<h2> • Acesse meu <a href="https://arthurantonello.github.io" target="_blank">Portfólio</a></h2><br>
 <h2 align="left"> • Tecnologias </h2>
 <div style="display: inline_block">
     <img src="https://skillicons.dev/icons?i=js,html,css,py,nodejs,java,github&theme=dark" />
