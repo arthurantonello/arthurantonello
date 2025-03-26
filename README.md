@@ -13,7 +13,7 @@
       <img src="https://skillicons.dev/icons?i=linkedin" />
     </a>
   &nbsp;
-  <a href="mailto:%20contatoarthurantonello@gmail.com" target="_blank">
+  <a href="mailto:contatoarthurantonello@gmail.com" target="_blank">
       <img src="https://skillicons.dev/icons?i=gmail" />
     </a>
 </div>
