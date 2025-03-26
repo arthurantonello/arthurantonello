@@ -1,20 +1,20 @@
-## Olá , me chamo Arthur e esse é o meu mundo no GitHub 
+<h1 align="left"> Me chame de Arthur!</h1>
+<h2 align="left"> • Por aqui tu vai encontrar algumas das coisas que me atiçaram a curiosidade e resolvi desenvolver </h2><br>
 
-- No momento estou em busca da minha primeira oportunidade de emprego na minha área de estudos, para poder demonstrar o que venho aprendendo e me dedicado.
-- Sinta-se a vontade para entrar em contato comigo através das redes sociais informadas abaixo para propostas e/ou dúvidas em algum projeto meu, fico a disposição de ajudar no que for possível.
-
-<div style="display: inline_block"><br>
-  <img align="left" alt="Arthur-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="left" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="left" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="left" alt="Arthur-Java" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/3291/3291669.png"
+<h2 align="left"> Tecnologias </h2>
+<div style="display: inline_block">
+    <img src="https://skillicons.dev/icons?i=js,html,css,py,nodejs,java,github&theme=dark" />
 </div>
 
+ <h2 align="left"> Fique a vontade para conhecer mais sobre mim ou entrar em contato comigo pelas minhas redes! <br></h2>
 
-  ##
- 
 <div> 
-    <a href="https://www.linkedin.com/in/arthur-antonello/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:arthur.antonello@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/arthur-antonello/">
+      <img src="https://skillicons.dev/icons?i=linkedin" />
+    </a>
+  &nbsp;
+  <a href="mailto:%20contatoarthurantonello@gmail.com"">
+      <img src="https://skillicons.dev/icons?i=gmail" />
+    </a>
 </div>
 
